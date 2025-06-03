@@ -17,6 +17,7 @@
 
 body {
     background-color: #F8F8F8;
+    min-width: 320px;
 }
 
 p,
@@ -334,6 +335,7 @@ h4 a{
 
   .header-right-550 {
     margin-right: 20px;
+      display: flex;
   }
 
   .header-right-550 img {
